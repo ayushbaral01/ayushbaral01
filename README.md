@@ -43,7 +43,7 @@
 #### Repository : [View Certificates Repository ](https://github.com/ayushbaral01/Certificates)
 
 ### Connect with me: 
-<a target="Portfolio" href="https://ayushbaral07.github.io/ayush-portfolio/"><img src="https://github.com/ayushbaral01/ayush-portfolio/blob/main/assets/img/blog/Thumbnail.jpg" alt="Portfolio" width="600" height="174"></img></a>
+<a target="Portfolio" href="https://ayushbaral01.github.io/ayush-portfolio/"><img src="https://github.com/ayushbaral01/ayush-portfolio/blob/main/assets/img/blog/Thumbnail.jpg" alt="Portfolio" width="600" height="174"></img></a>
 <br />
 
  
