@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **TensorFlow ,PyTorch .**
+- 🌱 I’m currently learning **TensorFlow ,keras , Django .**
 
 - 👨‍💻 All of my projects are available at [https://ayushbaral01.github.io/ayush-portfolio/](https://ayushbaral01.github.io/ayush-portfolio/)
 
@@ -39,7 +39,7 @@
 
 ### My  Certification :
 
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/7PC2MFJV7NJD"><img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/IMg%20cert.png" alt="Certificate" width="600" height="174"></img></a>  
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/AXEGNJ22Y634"><img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/IMg%20cert.png" alt="Certificate" width="600" height="174"></img></a>  
 #### Repository : [View Certificates Repository ](https://github.com/ayushbaral01/Certificates)
 
 ### Connect with me: 
