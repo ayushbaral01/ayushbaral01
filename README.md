@@ -1,65 +1,145 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ayush Baral! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<div align="center">
 
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Ayush+Baral;Hi+there%2C+I'm+Ayush+Baral+%F0%9F%91%8B;ML+Engineer+%7C+Data+Scientist;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
 
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=ayushbaral01&style=flat-square&color=6E56CF&label=Profile+Views)
+<!--[![GitHub followers](https://img.shields.io/github/followers/ayushbaral01?style=flat-square&color=6E56CF)](https://github.com/ayushbaral01)
+-->
 
-<h3 align="left">Passionate Data Engineer | Big Data Enthusiast | Problem Solver | Machine Learning Enthusiast</h3>
+</div>
 
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushbaral01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushbaral01" /> </p>
+---
 
+## 💫 About Me
 
+I'm a machine learning engineer and backend developer who loves turning raw data into real-world impact. My work sits at the intersection of data science, deep learning, and scalable systems.
 
+- 🔭 Currently building **ML pipelines and backend systems**
+- 🤝 Open to collaborating on **data science and applied ML projects**
+- 🌱 Leveling up in **model deployment, MLOps, and data engineering**
+- 💬 Ask me about **Python, machine learning, data analysis, and dashboards**
+- ⚡ Fun fact: I enjoy finding the story hidden inside messy datasets
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+---
 
+## 🚀 Current Projects
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 **ML Pipeline** | End-to-end model training, evaluation & deployment system | Python, MLflow, Docker |
+| 📊 **Data Dashboard** | Interactive analytics dashboard for real-time insights | Plotly, Flask, Pandas |
+| 🤖 **Deep Learning Model** | Custom architecture for structured/unstructured data tasks | PyTorch, CUDA |
 
+> 💡 *These are works in progress - open to contributions and feedback!*
 
+---
 
-- 🌱 I’m currently learning **TensorFlow ,keras , Django .**
+## 🌐 Connect With Me
 
-- 👨‍💻 All of my projects are available at [https://ayushbaral01.github.io/ayush-portfolio/](https://ayushbaral01.github.io/ayush-portfolio/)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushbaral01)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aayush77__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushbaral01@gmail.com)
 
-- 💬 Ask me about anything **I am happy to help.**
+</div>
 
-- 📫 How to reach me **aayushbaral01@gmai.com**
+---
 
-- 📄 Know about my experiences [ayush resume page.pdf](https://github.com/ayushbaral07/ayushbaral07/files/13885261/ayush.ko.resume.2.page.pdf)
+## 💻 Tech Stack
 
-- ⚡ Fun fact **I once solved a complex coding challenge while balancing a bowl of noodles on my head and sipping water from a straw!**
+**Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayushbaral01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushbaral01" height="30" width="40" /></a>
-<a href="https://instagram.com/aayush77__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush77__" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 
+**ML / Data Science**
 
-### My  Certification :
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
+![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/verify/AXEGNJ22Y634"><img src="https://github.com/ayushbaral07/ayush-portfolio/blob/main/assets/img/blog/IMg%20cert.png" alt="Certificate" width="600" height="174"></img></a>  
-#### Repository : [View Certificates Repository ](https://github.com/ayushbaral01/Certificates)
+**Data & Visualization**
 
-### Connect with me: 
-<a target="Portfolio" href="https://ayushbaral01.github.io/ayush-portfolio/"><img src="https://github.com/ayushbaral01/ayush-portfolio/blob/main/assets/img/blog/Thumbnail.jpg" alt="Portfolio" width="600" height="174"></img></a>
-<br />
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2300A3E0.svg?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 
- 
+**Databases**
 
-<h4 style="color:#ff4500;">Click ⬆️ to visit my portfolio. </h4>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
+**Cloud & Infrastructure**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+**Web & Dev Tools**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushbaral01&show_icons=true&locale=en&layout=compact" alt="ayushbaral01" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushbaral01&show_icons=true&locale=en" alt="ayushbaral01" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushbaral01&" alt="ayushbaral01" /></p>
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=ayushbaral01&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6E56CF&icon_color=6E56CF&text_color=555" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbaral01&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6E56CF&text_color=555" height="170"/>
+-->
+<img src="https://nirzak-streak-stats.vercel.app/?user=ayushbaral01&theme=transparent&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" width="500"/>
+
+</div>
+
+---
+<!--
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ayushbaral01&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+-->
+<div align="center">
+
+*"Data is the new oil - and I'm here to refine it."*
+
+</div>
