@@ -115,16 +115,11 @@ I'm a machine learning engineer and backend developer who loves turning raw data
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=ayushbaral01&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6E56CF&icon_color=6E56CF&text_color=555" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbaral01&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6E56CF&text_color=555" height="170"/>
--->
-<img src="https://nirzak-streak-stats.vercel.app/?user=ayushbaral01&theme=transparent&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" width="500"/>
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=ayushbaral01&theme=transparent&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideNums=6E56CF&currStreakNum=6E56CF&sideLabels=6E56CF&dates=888&border_radius=10" width="500"/>
 </div>
 
 ---
+
 <!--
 ## 🏆 GitHub Trophies
 
