@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Ayush+Baral;Hi+there%2C+I'm+Ayush+Baral+%F0%9F%91%8B;ML+Engineer+%7C+Data+Scientist;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB;Hi+there%2C+I'm+Ayush+Baral+%F0%9F%91%8B;ML+Engineer+%7C+Data+Scientist;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushbaral01&style=flat-square&color=6E56CF&label=Profile+Views)
