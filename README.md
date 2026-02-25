@@ -118,7 +118,11 @@ I'm a machine learning engineer and backend developer who loves turning raw data
 <img src="https://nirzak-streak-stats.vercel.app/?user=ayushbaral01&theme=transparent&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideNums=6E56CF&currStreakNum=6E56CF&sideLabels=6E56CF&dates=888&border_radius=10" width="500"/>
 </div>
 
----
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=ayushbaral01&theme=transparent&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideNums=6E56CF&currStreakNum=6E56CF&sideLabels=6E56CF&dates=888&border_radius=10&v=2" width="500"/>
+</div>
+  
+  ---
 
 <!--
 ## 🏆 GitHub Trophies
